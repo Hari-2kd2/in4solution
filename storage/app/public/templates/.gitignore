@@ -1,0 +1,8 @@
+*
+!.gitignore
+!attendance_template.xlsx
+!employee_details.xlsx
+!employee_salary.xlsx
+!employee_shift_details.xlsx
+!upload_payroll.xlsx
+!weekly_holiday.xlsx
