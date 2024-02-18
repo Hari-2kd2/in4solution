@@ -1,4 +1,4 @@
-name: 🚀 Deploying to ghost-spirit.com 🚀
+name: 🚀 Deploying to ghost-spirit.in 🚀
 on:
   push:
     branches:
@@ -7,6 +7,7 @@ jobs:
   web-deploy:
     name: 🎉 FTP-Deploy-Action
     runs-on: ubuntu-latest
+    
     steps:
       - name: 🚚 Get latest code
         uses: actions/checkout@v3
